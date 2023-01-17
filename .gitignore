@@ -29,7 +29,8 @@ bin/
 .DS_Store
 
 ### Dirs ###
-./.idea/
+/.idea/
 
 ### Files ###
 OOP_seminars.iml
+
