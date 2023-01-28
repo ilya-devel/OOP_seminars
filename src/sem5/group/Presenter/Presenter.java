@@ -5,12 +5,12 @@ import sem5.group.Console.View;
 
 public class Presenter {
     View view;
-    CalcModel model;
+//    CalcModel model;
     double x;
     double y;
 
     public Presenter(CalcModel m, View v) {
-        this.model = m;
+//        this.model = m;
         this.view = v;
     }
 
