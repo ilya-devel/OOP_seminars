@@ -1,9 +1,9 @@
-package sem5.Homeworks;
+package sem5.Homeworks.Calc;
 
-import sem5.Homeworks.TypeData.Complex;
-import sem5.Homeworks.TypeData.IMainOperation;
-import sem5.Homeworks.TypeData.Rational;
-import sem5.Homeworks.View.View;
+import sem5.Homeworks.Calc.TypeData.Complex;
+import sem5.Homeworks.Calc.TypeData.IMainOperation;
+import sem5.Homeworks.Calc.TypeData.Rational;
+import sem5.Homeworks.Calc.View.View;
 
 public class ControlMethods<T> {
     IMainOperation num1;

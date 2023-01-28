@@ -1,4 +1,4 @@
-package sem5.Homeworks.View;
+package sem5.Homeworks.Calc.View;
 
 import java.util.Scanner;
 

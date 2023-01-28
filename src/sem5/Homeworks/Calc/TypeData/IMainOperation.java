@@ -1,4 +1,4 @@
-package sem5.Homeworks.TypeData;
+package sem5.Homeworks.Calc.TypeData;
 
 public interface IMainOperation<T> {
     void summarize(T other);
